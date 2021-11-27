@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @AndreArjDev (beginner)
 - I'm interested in web applications
-- 🌱 I am currently learning programming with Python
-- 💞️ I'm looking to collaborate on projects in the python language
+- 🌱 I am currently learning programming with Python and Java
+- 💞️ I'm looking to collaborate on projects
 - 📫 How to reach me andre.021arj@mail.com
 
 <!---
