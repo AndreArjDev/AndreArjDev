@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @AndreArjDev (beginner)
 - I'm interested in web applications
-- 🌱 I am currently learning programming with Python and Java
+- 🌱 I am currently learning programming with js and Java
 - 💞️ I'm looking to collaborate on projects
 - 📫 How to reach me andre.021arj@mail.com
 
